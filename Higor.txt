@@ -1,0 +1,10 @@
+git clone url repositório
+
+git pull (atualiza o repositório)
+
+git add arquivo.txt (adiciona o arquivo)
+
+git push (manda os arquivos para a nuvem)
+
+git commit -am "x" arquivo.txt
+
